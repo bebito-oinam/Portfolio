@@ -14,3 +14,11 @@ This page mixes all of that into a pastel brutalist "case file" theme.
 
 ## How to view
 Download the repo and open index.html in any browser.
+
+## Tech used
+- HTML5 and CSS3 (grid, animations)
+- Vanilla JavaScript (Canvas API, Web Audio API)
+- Google Fonts
+
+## Author
+Bebito Oinam, BSc Forensic Science, Year 3
